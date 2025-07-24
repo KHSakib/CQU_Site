@@ -1,0 +1,26 @@
+Centre for Machine Learning - Networking and Education Technology (CML-NET CQUniversity)
+
+The Centre for Machine Learning - Networking and Education Technology reflects the broad range of research capabilities across the School of Engineering and Technology's College of Information and Communications Technology, with a focus on fIVE major themes:
+
+Research Clusters 
+AI and Data Science - Head (Dr Nahina Islam):Research cluster “AI and Data Science” focuses on developing intelligent algorithms and data-driven solutions for real-world challenges across domains such as healthcare, environment, business intelligence, and public services. Key areas include machine learning, deep learning, natural language processing, and computer vision.
+
+The cluster fosters a collaborative ecosystem for innovation and applied research, enabling interdisciplinary projects and industry partnerships to advance responsible and explainable AI at CQU.
+
+
+Networking & Information Systems (Dr Fariza Subrina):Research cluster “Networking & Information Systems” addresses critical problems in the design, security, and optimisation of modern networked systems and enterprise IT infrastructure. Focus areas include cybersecurity, IoT, edge/cloud networking, network protocols, and digital transformation.
+
+The cluster provides a strong foundation for collaborative research, system development, and practical deployment, supporting the evolution of secure, scalable digital infrastructures in education and industry. 
+
+Quantum and Advanced Computing ( Professor Hong Shen):Research cluster “Quantum and Advanced Computing " (QAC) aims to conduct frontier research in emerging directions of quantum and advanced computing and networking that are not only of critical importance to technology development, but also have great impact on real-world applications: 1) Quantum Computing and Communication; 2) Quantum Cybersecurity; 3) Distributed and Quantum Machine Learning; 4) Cloud-Edge Computing and Network Optimization; 5) Quantum and Advanced Computing in Decarbonization, Rail Technology and Agriculture.
+
+ 
+
+QAC offers an ideal platform to researchers for interaction and collaboration to foster innovative research and establish joint research projects, supporting the future development of information technology and communications at CQU.
+
+Technology and Pedagogy (Dr Meena Jha):Research cluster “Technology and Pedagogy” investigates how emerging technologies can be effectively integrated into learning environments to enhance teaching, engagement, and educational equity. Key themes include digital learning analytics, AI in education, virtual/augmented reality in classrooms, and inclusive instructional design.
+
+The cluster supports educators, technologists, and researchers in shaping the future of education through evidence-based pedagogical innovation and technology-enhanced learning experiences.
+Emerging Technologies (A/Professor Biplob Ray):Research cluster “Emerging Technologies” explores disruptive innovations shaping the future of digital ecosystems, including blockchain, smart systems, human-computer interaction, robotics, and metaverse technologies. It focuses on identifying high-impact applications across sectors such as logistics, governance, and digital health.
+
+The cluster fosters multidisciplinary collaboration and experimentation, helping CQU researchers lead in technological innovation and adoption across the Indo-Pacific and beyond.
